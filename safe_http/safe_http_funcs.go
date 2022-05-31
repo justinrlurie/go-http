@@ -2,7 +2,7 @@
 // functionality. The purpose of the wrappers is to add default time-out conditions
 // and to prevent leaks to/from the requested server.
 
-package safe_http
+package safe_http_funcs
 
 import (
 	//"encoding/json"
